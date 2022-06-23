@@ -1,12 +1,10 @@
-## Welcome to GitHub Pages
+## Willkommen zu eam42
 
-You can use the [editor on GitHub](https://github.com/pivotaleventing/eam42/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### Enterprise Architecture Management 42
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+ToDo
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
